@@ -15,8 +15,8 @@ Mirriam Wairimu
 - [Applications of AI](#Applications of AI)
 - [Basic AI Tools](#Basic AI Tools)
 
-## Introduction  to Ai
-
+## Introduction  
+##Introduction to AI
 <!-- [Team Member 1 Name] will write this section -->
 
 ##Types of AI
