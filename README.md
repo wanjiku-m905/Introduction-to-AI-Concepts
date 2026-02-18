@@ -10,11 +10,12 @@ Mirriam Wairimu
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Introduction to AI](#introduction to Ai)
 - [Types of AI](#Types of AI)
 - [Applications of AI](#Applications of AI)
 - [Basic AI Tools](#Basic AI Tools)
 
-## Introduction
+## Introduction  to Ai
 
 <!-- [Team Member 1 Name] will write this section -->
 
