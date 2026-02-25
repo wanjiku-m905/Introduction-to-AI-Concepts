@@ -20,7 +20,19 @@ Mirriam Wairimu
 <!-- [Team Member 1 Name] will write this section -->
 
 ##Types of AI
-<!-- [Team Member 2 Name] will write this section -->
+<!-- [Vincent Odipo] will write this section -->
+AI types are generally classified by capability, or by functionality, ranging from Reactive machines to Self-Aware systems.
+*Key classifications of AI*
+**By Capability**
+- Artificial Narrow Intelligence
+- Artificial General Intelligence
+- Artificial Superintelligence
+**By Functionality**
+[x]Machine Learning
+[x]Deep Learning
+[x]Natural Language Processing
+[x]Computer Vision
+[x]Generative AI
 
 ##Applications of AI
 <!-- [Team Member 3 Name] will write this section -->
